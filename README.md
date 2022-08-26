@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Developments 
 - 🌱 I’m currently learning Reacts 
 - 💞️ I’m looking to collaborate on Growth of the Organization and Enhance my Skills
-- 📫 How to reach me ...
+- 📫 How to reach me ... @ github.com/monikantagogoi
 
 <!---
 monikantagogoi/monikantagogoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
